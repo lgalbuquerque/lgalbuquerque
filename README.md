@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Luiz 👋
 
-<h1 align="center"> I'm Luiz</h1>
 <h3 align="center">Transitioning from business consulting to software development. Currently, I'm a student of Software Analysis and Development, and I'm learning web development at Cubos Academy. I'm dedicated to gaining strong back-end development skills and getting involved in awesome projects. Feel free to reach out!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lgalbuquerque" alt="lgalbuquerque" /></a> </p>
