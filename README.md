@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **luis_g_albuquerque@hotmail.com**
 
-- 📄 Know about my experiences [Back-end development using JavaScript and nom packages | REST API development | Experience with database design using PostgreSQL | Experience with Git Hub](Back-end development using JavaScript and nom packages | REST API development | Experience with database design using PostgreSQL | Experience with Git Hub)
+- 📄 Know about my experiences Back-end development using JavaScript and nom packages | REST API development | Experience with database design using PostgreSQL | Experience with Git Hub
 
 - ⚡ Fun fact **I love eating while coding!**
 
